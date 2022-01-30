@@ -1,0 +1,23 @@
+body {
+    background-image: url(./background2.jpg);
+    background-size: cover;
+}
+header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.dataeBotao {
+    display: flex;
+    justify-content: center;
+}
