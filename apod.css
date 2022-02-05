@@ -2,6 +2,16 @@ body {
     background-image: url(./background2.jpg);
     background-size: cover;
 }
+#title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+#description{
+
+}
 header {
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
@@ -16,8 +26,18 @@ h2{
     justify-content: center;
     color: aliceblue;
 }
-
+.conteudoNasa{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+}
+footer {
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+}
 .dataeBotao {
     display: flex;
-    justify-content: center;
+        justify-content: center;
 }
